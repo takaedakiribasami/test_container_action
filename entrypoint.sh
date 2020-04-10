@@ -1,3 +1,2 @@
-#!/bin/sh -l
-
-echo "hello $1"
+#!/bin/bash -l
+echo "::set-output name=uppercase-text::${1^^}"
