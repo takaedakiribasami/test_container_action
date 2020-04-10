@@ -1,6 +1,3 @@
-<p align="center">
-    ... 
-</p>
 # Uppercase Action
 This action converts a text to uppercase. 
 ## Inputs 
